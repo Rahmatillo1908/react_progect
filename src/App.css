@@ -1,0 +1,14 @@
+.navbar {
+    background-color: dodgerblue;
+    color: #000;
+}
+.logo {
+    font-size: 30px;
+}
+.bar span {
+    margin-left: 40px;
+    font-size: 20px;
+}
+.bar span:hover {
+    color: dodgerblue;
+}
